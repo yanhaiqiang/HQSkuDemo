@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionReusableView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="U6b-Vx-4bR" customClass="AttributeHeaerView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="50"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="成色" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="USC-RI-1BZ">
+                    <rect key="frame" x="15" y="16" width="31" height="18"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="* 温馨提示：每项均为必选哦" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="N0H-g7-8Er">
+                    <rect key="frame" x="56" y="19" width="130.5" height="12"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <color key="textColor" red="0.89411764709999997" green="0.08235294118" blue="0.27450980390000002" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="无划痕" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="p4K-Tu-5JT">
+                    <rect key="frame" x="56" y="19" width="31" height="12"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <color key="textColor" red="0.89411764705882346" green="0.082352941176470587" blue="0.27450980392156865" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <constraints>
+                <constraint firstItem="USC-RI-1BZ" firstAttribute="centerY" secondItem="9Gg-ye-v9C" secondAttribute="centerY" id="0DJ-xw-dr6"/>
+                <constraint firstItem="N0H-g7-8Er" firstAttribute="leading" secondItem="USC-RI-1BZ" secondAttribute="trailing" constant="10" id="5lg-w8-YaI"/>
+                <constraint firstItem="p4K-Tu-5JT" firstAttribute="centerY" secondItem="N0H-g7-8Er" secondAttribute="centerY" id="9jf-Vq-3zD"/>
+                <constraint firstItem="N0H-g7-8Er" firstAttribute="centerY" secondItem="USC-RI-1BZ" secondAttribute="centerY" id="Aln-Bl-Wee"/>
+                <constraint firstItem="USC-RI-1BZ" firstAttribute="leading" secondItem="9Gg-ye-v9C" secondAttribute="leading" constant="15" id="Qr1-l0-98c"/>
+                <constraint firstItem="p4K-Tu-5JT" firstAttribute="leading" secondItem="USC-RI-1BZ" secondAttribute="trailing" constant="10" id="U2j-eX-Po8"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="9Gg-ye-v9C"/>
+            <connections>
+                <outlet property="alertLabel" destination="N0H-g7-8Er" id="qVt-Cc-cWC"/>
+                <outlet property="specLabel" destination="p4K-Tu-5JT" id="ljw-Eh-OQM"/>
+                <outlet property="titleLabel" destination="USC-RI-1BZ" id="ohH-Ta-VUs"/>
+            </connections>
+        </collectionReusableView>
+    </objects>
+</document>

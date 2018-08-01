@@ -9,7 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (nonatomic, strong) NSDictionary *skuData;
 
-
+- (instancetype)initWithDic:(NSDictionary *)dic;
 @end
 

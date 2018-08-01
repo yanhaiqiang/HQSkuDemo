@@ -1,0 +1,1413 @@
+{
+"result": {
+"id": "8",
+"img": "http://app.boruii.com/upload/20180104/151507314886826.jpg",
+"name": "iPhone7 plus",
+"price": "1",
+"siftKey": [{
+"standardType": "26",
+"standardListName": "成色",
+"standardInfoList": [{
+"standardName": "99成新",
+"attrValueId": "54",
+"attrvalueTitle": "",
+"isSelect": 0
+}, {
+"standardName": "95成新",
+"attrValueId": "65",
+"attrvalueTitle": "",
+"isSelect": 1
+}, {
+"standardName": "9成新",
+"attrValueId": "66",
+"attrvalueTitle": "",
+"isSelect": 0
+}, {
+"standardName": "8成新",
+"attrValueId": "67",
+"attrvalueTitle": "",
+"isSelect": 0
+}]
+}, {
+"standardType": "27",
+"standardListName": "容量",
+"standardInfoList": [{
+"standardName": "32G",
+"attrValueId": "55",
+"attrvalueTitle": "",
+"isSelect": 0
+}, {
+"standardName": "128G",
+"attrValueId": "56",
+"attrvalueTitle": "",
+"isSelect": 1
+}, {
+"standardName": "256G",
+"attrValueId": "57",
+"attrvalueTitle": "",
+"isSelect": 0
+}]
+}, {
+"standardType": "28",
+"standardListName": "颜色",
+"standardInfoList": [{
+"standardName": "金色",
+"attrValueId": "58",
+"attrvalueTitle": "",
+"isSelect": 0
+}, {
+"standardName": "银色",
+"attrValueId": "59",
+"attrvalueTitle": "",
+"isSelect": 0
+}, {
+"standardName": "玫瑰金",
+"attrValueId": "60",
+"attrvalueTitle": "",
+"isSelect": 0
+}, {
+"standardName": "磨砂黑",
+"attrValueId": "61",
+"attrvalueTitle": "",
+"isSelect": 0
+}, {
+"standardName": "亮黑色",
+"attrValueId": "62",
+"attrvalueTitle": "",
+"isSelect": 1
+}, {
+"standardName": "红色",
+"attrValueId": "70",
+"attrvalueTitle": "",
+"isSelect": 0
+}]
+}, {
+"standardType": "29",
+"standardListName": "网络",
+"standardInfoList": [{
+"standardName": "全网通4G",
+"attrValueId": "1078",
+"attrvalueTitle": "",
+"isSelect": 1
+}]
+}, {
+"standardType": "30",
+"standardListName": "渠道",
+"standardInfoList": [{
+"standardName": "国行",
+"attrValueId": "64",
+"attrvalueTitle": "",
+"isSelect": 1
+}, {
+"standardName": "美版",
+"attrValueId": "1685",
+"attrvalueTitle": "",
+"isSelect": 0
+}, {
+"standardName": "日版",
+"attrValueId": "1686",
+"attrvalueTitle": "",
+"isSelect": 0
+}, {
+"standardName": "其他版本",
+"attrValueId": "1687",
+"attrvalueTitle": "",
+"isSelect": 0
+}]
+}],
+"minId": 580,
+"minPrice": 2698,
+"skuDate": {
+"66;55;58;1078;64": {
+"price": "3398",
+"stocksNumber": "1",
+"productId": "582"
+},
+"66;56;58;1078;64": {
+"price": "3798",
+"stocksNumber": "50",
+"productId": "853"
+},
+"65;56;61;1078;64": {
+"price": "3898",
+"stocksNumber": "38",
+"productId": "656"
+},
+"66;56;61;1078;64": {
+"price": "3798",
+"stocksNumber": "50",
+"productId": "655"
+},
+"66;56;62;1078;64": {
+"price": "3648",
+"stocksNumber": "0",
+"productId": "657"
+},
+"65;56;62;1078;64": {
+"price": "1",
+"stocksNumber": "16",
+"productId": "658"
+},
+"66;57;58;1078;64": {
+"price": "4198",
+"stocksNumber": "0",
+"productId": "659"
+},
+"65;57;58;1078;64": {
+"price": "4298",
+"stocksNumber": "0",
+"productId": "660"
+},
+"65;57;62;1078;64": {
+"price": "4258",
+"stocksNumber": "10",
+"productId": "664"
+},
+"66;57;61;1078;64": {
+"price": "4198",
+"stocksNumber": "10",
+"productId": "661"
+},
+"65;57;61;1078;64": {
+"price": "4298",
+"stocksNumber": "10",
+"productId": "662"
+},
+"66;57;62;1078;64": {
+"price": "4158",
+"stocksNumber": "20",
+"productId": "663"
+},
+"66;55;61;1078;64": {
+"price": "3398",
+"stocksNumber": "0",
+"productId": "850"
+},
+"65;55;61;1078;64": {
+"price": "3498",
+"stocksNumber": "0",
+"productId": "852"
+},
+"65;56;58;1078;64": {
+"price": "3898",
+"stocksNumber": "50",
+"productId": "855"
+},
+"54;57;62;1078;64": {
+"price": "4358",
+"stocksNumber": "0",
+"productId": "860"
+},
+"54;55;58;1078;64": {
+"price": "3598",
+"stocksNumber": "5",
+"productId": "869"
+},
+"54;56;62;1078;64": {
+"price": "3848",
+"stocksNumber": "0",
+"productId": "882"
+},
+"54;56;61;1078;64": {
+"price": "3998",
+"stocksNumber": "28",
+"productId": "879"
+},
+"54;57;58;1078;64": {
+"price": "4398",
+"stocksNumber": "0",
+"productId": "883"
+},
+"54;57;61;1078;64": {
+"price": "4398",
+"stocksNumber": "10",
+"productId": "858"
+},
+"54;55;61;1078;64": {
+"price": "3598",
+"stocksNumber": "0",
+"productId": "874"
+},
+"54;56;58;1078;64": {
+"price": "3998",
+"stocksNumber": "20",
+"productId": "876"
+},
+"65;55;58;1078;64": {
+"price": "3498",
+"stocksNumber": "5",
+"productId": "581"
+},
+"54;57;60;1078;64": {
+"price": "4398",
+"stocksNumber": "0",
+"productId": "930"
+},
+"66;55;60;1078;64": {
+"price": "3398",
+"stocksNumber": "20",
+"productId": "932"
+},
+"65;55;60;1078;64": {
+"price": "3498",
+"stocksNumber": "20",
+"productId": "933"
+},
+"66;55;59;1078;64": {
+"price": "3398",
+"stocksNumber": "0",
+"productId": "934"
+},
+"65;55;59;1078;64": {
+"price": "3498",
+"stocksNumber": "0",
+"productId": "935"
+},
+"66;56;60;1078;64": {
+"price": "3798",
+"stocksNumber": "50",
+"productId": "936"
+},
+"65;56;60;1078;64": {
+"price": "3898",
+"stocksNumber": "19",
+"productId": "937"
+},
+"66;56;59;1078;64": {
+"price": "3798",
+"stocksNumber": "20",
+"productId": "938"
+},
+"65;56;59;1078;64": {
+"price": "3898",
+"stocksNumber": "0",
+"productId": "939"
+},
+"66;57;60;1078;64": {
+"price": "4198",
+"stocksNumber": "10",
+"productId": "940"
+},
+"65;57;60;1078;64": {
+"price": "4298",
+"stocksNumber": "0",
+"productId": "941"
+},
+"66;57;59;1078;64": {
+"price": "4198",
+"stocksNumber": "0",
+"productId": "942"
+},
+"65;57;59;1078;64": {
+"price": "4298",
+"stocksNumber": "0",
+"productId": "943"
+},
+"54;57;59;1078;64": {
+"price": "4398",
+"stocksNumber": "0",
+"productId": "956"
+},
+"54;55;60;1078;64": {
+"price": "3598",
+"stocksNumber": "8",
+"productId": "957"
+},
+"54;55;59;1078;64": {
+"price": "3598",
+"stocksNumber": "0",
+"productId": "958"
+},
+"54;56;60;1078;64": {
+"price": "3998",
+"stocksNumber": "10",
+"productId": "959"
+},
+"54;56;59;1078;64": {
+"price": "3998",
+"stocksNumber": "0",
+"productId": "960"
+},
+"67;55;61;1078;1685": {
+"price": "3098",
+"stocksNumber": "100",
+"productId": "1245"
+},
+"66;55;61;1078;1685": {
+"price": "3298",
+"stocksNumber": "100",
+"productId": "1246"
+},
+"65;55;61;1078;1685": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "1247"
+},
+"54;55;61;1078;1685": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1248"
+},
+"67;55;59;1078;1685": {
+"price": "3098",
+"stocksNumber": "100",
+"productId": "1249"
+},
+"66;55;59;1078;1685": {
+"price": "3298",
+"stocksNumber": "100",
+"productId": "1250"
+},
+"65;55;59;1078;1685": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "1251"
+},
+"54;55;59;1078;1685": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1252"
+},
+"67;55;60;1078;1685": {
+"price": "3098",
+"stocksNumber": "100",
+"productId": "1253"
+},
+"66;55;60;1078;1685": {
+"price": "3298",
+"stocksNumber": "100",
+"productId": "1254"
+},
+"65;55;60;1078;1685": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "1255"
+},
+"54;55;60;1078;1685": {
+"price": "3498",
+"stocksNumber": "99",
+"productId": "1256"
+},
+"67;55;58;1078;1685": {
+"price": "3098",
+"stocksNumber": "100",
+"productId": "1257"
+},
+"66;55;58;1078;1685": {
+"price": "3298",
+"stocksNumber": "100",
+"productId": "1258"
+},
+"65;55;58;1078;1685": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "1259"
+},
+"54;55;58;1078;1685": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1260"
+},
+"67;55;62;1078;1685": {
+"price": "3058",
+"stocksNumber": "100",
+"productId": "1261"
+},
+"66;55;62;1078;1685": {
+"price": "3258",
+"stocksNumber": "100",
+"productId": "1262"
+},
+"65;55;62;1078;1685": {
+"price": "3358",
+"stocksNumber": "100",
+"productId": "1263"
+},
+"54;55;62;1078;1685": {
+"price": "3458",
+"stocksNumber": "100",
+"productId": "1264"
+},
+"67;55;70;1078;1685": {
+"price": "3198",
+"stocksNumber": "100",
+"productId": "1265"
+},
+"66;55;70;1078;1685": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "1266"
+},
+"65;55;70;1078;1685": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1267"
+},
+"54;55;70;1078;1685": {
+"price": "3598",
+"stocksNumber": "100",
+"productId": "1268"
+},
+"67;56;61;1078;1685": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1269"
+},
+"66;56;61;1078;1685": {
+"price": "3698",
+"stocksNumber": "100",
+"productId": "1270"
+},
+"65;56;61;1078;1685": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "1271"
+},
+"54;56;61;1078;1685": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1272"
+},
+"67;56;59;1078;1685": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1273"
+},
+"66;56;59;1078;1685": {
+"price": "3698",
+"stocksNumber": "100",
+"productId": "1274"
+},
+"65;56;59;1078;1685": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "1275"
+},
+"54;56;59;1078;1685": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1276"
+},
+"67;56;60;1078;1685": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1277"
+},
+"66;56;60;1078;1685": {
+"price": "3698",
+"stocksNumber": "100",
+"productId": "1278"
+},
+"65;56;60;1078;1685": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "1279"
+},
+"54;56;60;1078;1685": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1280"
+},
+"67;56;58;1078;1685": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1281"
+},
+"66;56;58;1078;1685": {
+"price": "3698",
+"stocksNumber": "100",
+"productId": "1282"
+},
+"65;56;58;1078;1685": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "1283"
+},
+"54;56;58;1078;1685": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1284"
+},
+"67;56;62;1078;1685": {
+"price": "3458",
+"stocksNumber": "100",
+"productId": "1285"
+},
+"66;56;62;1078;1685": {
+"price": "3658",
+"stocksNumber": "100",
+"productId": "1286"
+},
+"65;56;62;1078;1685": {
+"price": "3758",
+"stocksNumber": "100",
+"productId": "1287"
+},
+"54;56;62;1078;1685": {
+"price": "3858",
+"stocksNumber": "100",
+"productId": "1288"
+},
+"67;56;70;1078;1685": {
+"price": "3598",
+"stocksNumber": "100",
+"productId": "1289"
+},
+"66;56;70;1078;1685": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "1290"
+},
+"65;56;70;1078;1685": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1291"
+},
+"54;56;70;1078;1685": {
+"price": "3998",
+"stocksNumber": "100",
+"productId": "1292"
+},
+"67;57;61;1078;1685": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1293"
+},
+"66;57;61;1078;1685": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "1294"
+},
+"65;57;61;1078;1685": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "1295"
+},
+"54;57;61;1078;1685": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "1296"
+},
+"67;57;59;1078;1685": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1297"
+},
+"66;57;59;1078;1685": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "1298"
+},
+"65;57;59;1078;1685": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "1299"
+},
+"54;57;59;1078;1685": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "1300"
+},
+"67;57;60;1078;1685": {
+"price": "3898",
+"stocksNumber": "99",
+"productId": "1301"
+},
+"66;57;60;1078;1685": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "1302"
+},
+"65;57;60;1078;1685": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "1303"
+},
+"54;57;60;1078;1685": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "1304"
+},
+"67;57;58;1078;1685": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1305"
+},
+"66;57;58;1078;1685": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "1306"
+},
+"65;57;58;1078;1685": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "1307"
+},
+"54;57;58;1078;1685": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "1308"
+},
+"67;57;62;1078;1685": {
+"price": "3858",
+"stocksNumber": "99",
+"productId": "1309"
+},
+"66;57;62;1078;1685": {
+"price": "4058",
+"stocksNumber": "100",
+"productId": "1310"
+},
+"65;57;62;1078;1685": {
+"price": "4158",
+"stocksNumber": "100",
+"productId": "1311"
+},
+"54;57;62;1078;1685": {
+"price": "4258",
+"stocksNumber": "100",
+"productId": "1312"
+},
+"67;57;70;1078;1685": {
+"price": "3998",
+"stocksNumber": "100",
+"productId": "1313"
+},
+"66;57;70;1078;1685": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "1314"
+},
+"65;57;70;1078;1685": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "1315"
+},
+"54;57;70;1078;1685": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "1316"
+},
+"67;55;61;1078;1686": {
+"price": "3098",
+"stocksNumber": "100",
+"productId": "1614"
+},
+"66;55;61;1078;1686": {
+"price": "3298",
+"stocksNumber": "100",
+"productId": "1615"
+},
+"65;55;61;1078;1686": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "1616"
+},
+"54;55;61;1078;1686": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1617"
+},
+"67;56;61;1078;1686": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1618"
+},
+"66;56;61;1078;1686": {
+"price": "3698",
+"stocksNumber": "100",
+"productId": "1619"
+},
+"65;56;61;1078;1686": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "1620"
+},
+"54;56;61;1078;1686": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1621"
+},
+"67;57;61;1078;1686": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1622"
+},
+"66;57;61;1078;1686": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "1623"
+},
+"65;57;61;1078;1686": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "1624"
+},
+"54;57;61;1078;1686": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "1625"
+},
+"67;55;59;1078;1686": {
+"price": "3098",
+"stocksNumber": "100",
+"productId": "1626"
+},
+"66;55;59;1078;1686": {
+"price": "3298",
+"stocksNumber": "100",
+"productId": "1627"
+},
+"65;55;59;1078;1686": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "1628"
+},
+"54;55;59;1078;1686": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1629"
+},
+"67;56;59;1078;1686": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1630"
+},
+"66;56;59;1078;1686": {
+"price": "3698",
+"stocksNumber": "100",
+"productId": "1631"
+},
+"65;56;59;1078;1686": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "1632"
+},
+"54;56;59;1078;1686": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1633"
+},
+"67;57;59;1078;1686": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1634"
+},
+"66;57;59;1078;1686": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "1635"
+},
+"65;57;59;1078;1686": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "1636"
+},
+"54;57;59;1078;1686": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "1637"
+},
+"67;55;60;1078;1686": {
+"price": "3098",
+"stocksNumber": "100",
+"productId": "1638"
+},
+"66;55;60;1078;1686": {
+"price": "3298",
+"stocksNumber": "100",
+"productId": "1639"
+},
+"65;55;60;1078;1686": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "1640"
+},
+"54;55;60;1078;1686": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1641"
+},
+"67;56;60;1078;1686": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1642"
+},
+"66;56;60;1078;1686": {
+"price": "3698",
+"stocksNumber": "100",
+"productId": "1643"
+},
+"65;56;60;1078;1686": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "1644"
+},
+"54;56;60;1078;1686": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1645"
+},
+"67;57;60;1078;1686": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1646"
+},
+"66;57;60;1078;1686": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "1647"
+},
+"65;57;60;1078;1686": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "1648"
+},
+"54;57;60;1078;1686": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "1649"
+},
+"67;55;58;1078;1686": {
+"price": "3098",
+"stocksNumber": "100",
+"productId": "1650"
+},
+"66;55;58;1078;1686": {
+"price": "3298",
+"stocksNumber": "99",
+"productId": "1651"
+},
+"65;55;58;1078;1686": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "1652"
+},
+"54;55;58;1078;1686": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1653"
+},
+"67;56;58;1078;1686": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1654"
+},
+"66;56;58;1078;1686": {
+"price": "3698",
+"stocksNumber": "100",
+"productId": "1655"
+},
+"65;56;58;1078;1686": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "1656"
+},
+"54;56;58;1078;1686": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1657"
+},
+"67;57;58;1078;1686": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1658"
+},
+"66;57;58;1078;1686": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "1659"
+},
+"65;57;58;1078;1686": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "1660"
+},
+"54;57;58;1078;1686": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "1661"
+},
+"67;55;62;1078;1686": {
+"price": "3058",
+"stocksNumber": "100",
+"productId": "1662"
+},
+"66;55;62;1078;1686": {
+"price": "3258",
+"stocksNumber": "100",
+"productId": "1663"
+},
+"65;55;62;1078;1686": {
+"price": "3358",
+"stocksNumber": "100",
+"productId": "1664"
+},
+"54;55;62;1078;1686": {
+"price": "3458",
+"stocksNumber": "100",
+"productId": "1665"
+},
+"67;56;62;1078;1686": {
+"price": "3458",
+"stocksNumber": "100",
+"productId": "1666"
+},
+"66;56;62;1078;1686": {
+"price": "3658",
+"stocksNumber": "100",
+"productId": "1667"
+},
+"65;56;62;1078;1686": {
+"price": "3758",
+"stocksNumber": "100",
+"productId": "1668"
+},
+"54;56;62;1078;1686": {
+"price": "3858",
+"stocksNumber": "100",
+"productId": "1669"
+},
+"67;57;62;1078;1686": {
+"price": "3858",
+"stocksNumber": "100",
+"productId": "1670"
+},
+"66;57;62;1078;1686": {
+"price": "4058",
+"stocksNumber": "100",
+"productId": "1671"
+},
+"65;57;62;1078;1686": {
+"price": "4158",
+"stocksNumber": "100",
+"productId": "1672"
+},
+"54;57;62;1078;1686": {
+"price": "4258",
+"stocksNumber": "100",
+"productId": "1673"
+},
+"67;55;70;1078;1686": {
+"price": "3198",
+"stocksNumber": "100",
+"productId": "1674"
+},
+"66;55;70;1078;1686": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "1675"
+},
+"65;55;70;1078;1686": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1676"
+},
+"54;55;70;1078;1686": {
+"price": "3598",
+"stocksNumber": "100",
+"productId": "1677"
+},
+"67;56;70;1078;1686": {
+"price": "3598",
+"stocksNumber": "100",
+"productId": "1678"
+},
+"66;56;70;1078;1686": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "1679"
+},
+"65;56;70;1078;1686": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1680"
+},
+"54;56;70;1078;1686": {
+"price": "3998",
+"stocksNumber": "100",
+"productId": "1681"
+},
+"67;57;70;1078;1686": {
+"price": "3998",
+"stocksNumber": "100",
+"productId": "1682"
+},
+"66;57;70;1078;1686": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "1683"
+},
+"65;57;70;1078;1686": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "1684"
+},
+"54;57;70;1078;1686": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "1685"
+},
+"67;55;61;1078;1687": {
+"price": "3098",
+"stocksNumber": "100",
+"productId": "1979"
+},
+"66;55;61;1078;1687": {
+"price": "3298",
+"stocksNumber": "100",
+"productId": "1980"
+},
+"65;55;61;1078;1687": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "1981"
+},
+"54;55;61;1078;1687": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1982"
+},
+"67;56;61;1078;1687": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1983"
+},
+"66;56;61;1078;1687": {
+"price": "3698",
+"stocksNumber": "100",
+"productId": "1984"
+},
+"65;56;61;1078;1687": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "1985"
+},
+"54;56;61;1078;1687": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1986"
+},
+"67;57;61;1078;1687": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1987"
+},
+"66;57;61;1078;1687": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "1988"
+},
+"65;57;61;1078;1687": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "1989"
+},
+"54;57;61;1078;1687": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "1990"
+},
+"67;55;59;1078;1687": {
+"price": "3098",
+"stocksNumber": "100",
+"productId": "1991"
+},
+"66;55;59;1078;1687": {
+"price": "3298",
+"stocksNumber": "100",
+"productId": "1992"
+},
+"65;55;59;1078;1687": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "1993"
+},
+"54;55;59;1078;1687": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1994"
+},
+"67;56;59;1078;1687": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "1995"
+},
+"66;56;59;1078;1687": {
+"price": "3698",
+"stocksNumber": "100",
+"productId": "1996"
+},
+"65;56;59;1078;1687": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "1997"
+},
+"54;56;59;1078;1687": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1998"
+},
+"67;57;59;1078;1687": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "1999"
+},
+"66;57;59;1078;1687": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "2000"
+},
+"65;57;59;1078;1687": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "2001"
+},
+"54;57;59;1078;1687": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "2002"
+},
+"67;55;60;1078;1687": {
+"price": "3098",
+"stocksNumber": "100",
+"productId": "2003"
+},
+"66;55;60;1078;1687": {
+"price": "3298",
+"stocksNumber": "100",
+"productId": "2004"
+},
+"65;55;60;1078;1687": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "2005"
+},
+"54;55;60;1078;1687": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "2006"
+},
+"67;56;60;1078;1687": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "2007"
+},
+"66;56;60;1078;1687": {
+"price": "3698",
+"stocksNumber": "100",
+"productId": "2008"
+},
+"65;56;60;1078;1687": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "2009"
+},
+"54;56;60;1078;1687": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "2010"
+},
+"67;57;60;1078;1687": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "2011"
+},
+"66;57;60;1078;1687": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "2012"
+},
+"65;57;60;1078;1687": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "2013"
+},
+"54;57;60;1078;1687": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "2014"
+},
+"67;55;58;1078;1687": {
+"price": "3098",
+"stocksNumber": "100",
+"productId": "2015"
+},
+"66;55;58;1078;1687": {
+"price": "3298",
+"stocksNumber": "100",
+"productId": "2016"
+},
+"65;55;58;1078;1687": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "2017"
+},
+"54;55;58;1078;1687": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "2018"
+},
+"67;56;58;1078;1687": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "2019"
+},
+"66;56;58;1078;1687": {
+"price": "3698",
+"stocksNumber": "100",
+"productId": "2020"
+},
+"54;56;58;1078;1687": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "2021"
+},
+"65;56;58;1078;1687": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "2022"
+},
+"67;57;58;1078;1687": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "2023"
+},
+"66;57;58;1078;1687": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "2024"
+},
+"65;57;58;1078;1687": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "2025"
+},
+"54;57;58;1078;1687": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "2026"
+},
+"67;55;62;1078;1687": {
+"price": "3058",
+"stocksNumber": "100",
+"productId": "2027"
+},
+"66;55;62;1078;1687": {
+"price": "3258",
+"stocksNumber": "100",
+"productId": "2028"
+},
+"65;55;62;1078;1687": {
+"price": "3358",
+"stocksNumber": "100",
+"productId": "2029"
+},
+"54;55;62;1078;1687": {
+"price": "3458",
+"stocksNumber": "100",
+"productId": "2030"
+},
+"67;56;62;1078;1687": {
+"price": "3458",
+"stocksNumber": "100",
+"productId": "2031"
+},
+"66;56;62;1078;1687": {
+"price": "3658",
+"stocksNumber": "100",
+"productId": "2032"
+},
+"65;56;62;1078;1687": {
+"price": "3758",
+"stocksNumber": "100",
+"productId": "2033"
+},
+"54;56;62;1078;1687": {
+"price": "3858",
+"stocksNumber": "100",
+"productId": "2034"
+},
+"67;57;62;1078;1687": {
+"price": "3858",
+"stocksNumber": "100",
+"productId": "2035"
+},
+"66;57;62;1078;1687": {
+"price": "4058",
+"stocksNumber": "100",
+"productId": "2036"
+},
+"65;57;62;1078;1687": {
+"price": "4158",
+"stocksNumber": "100",
+"productId": "2037"
+},
+"54;57;62;1078;1687": {
+"price": "4258",
+"stocksNumber": "100",
+"productId": "2038"
+},
+"67;55;70;1078;1687": {
+"price": "3198",
+"stocksNumber": "100",
+"productId": "2039"
+},
+"66;55;70;1078;1687": {
+"price": "3398",
+"stocksNumber": "100",
+"productId": "2040"
+},
+"65;55;70;1078;1687": {
+"price": "3498",
+"stocksNumber": "100",
+"productId": "2041"
+},
+"54;55;70;1078;1687": {
+"price": "3598",
+"stocksNumber": "100",
+"productId": "2042"
+},
+"67;56;70;1078;1687": {
+"price": "3598",
+"stocksNumber": "99",
+"productId": "2043"
+},
+"66;56;70;1078;1687": {
+"price": "3798",
+"stocksNumber": "100",
+"productId": "2044"
+},
+"65;56;70;1078;1687": {
+"price": "3898",
+"stocksNumber": "100",
+"productId": "2045"
+},
+"54;56;70;1078;1687": {
+"price": "3998",
+"stocksNumber": "100",
+"productId": "2046"
+},
+"67;57;70;1078;1687": {
+"price": "3998",
+"stocksNumber": "100",
+"productId": "2047"
+},
+"66;57;70;1078;1687": {
+"price": "4098",
+"stocksNumber": "100",
+"productId": "2048"
+},
+"65;57;70;1078;1687": {
+"price": "4198",
+"stocksNumber": "100",
+"productId": "2049"
+},
+"54;57;70;1078;1687": {
+"price": "4298",
+"stocksNumber": "100",
+"productId": "2050"
+}
+}
+}
+}
