@@ -67,7 +67,7 @@ static CGFloat const TABBAR_HEIGHT     = 49;
 @implementation ViewController
 
 - (instancetype)initWithDic:(NSDictionary *)dic {
-    if (self) {
+    if (self = [super init]) {
         _skuData = dic;
     }
     return self;

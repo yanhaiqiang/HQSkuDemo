@@ -8,8 +8,6 @@
 
 #import "RootViewController.h"
 #import "ViewController.h"
-#import "XWDrawerAnimator.h"
-#import "UIViewController+XWTransition.h"
 
 #define KScreenWidth [[UIScreen mainScreen]bounds].size.width
 #define KScreenHeight [[UIScreen mainScreen]bounds].size.height
@@ -63,33 +61,14 @@
 
 - (void)jumpSKU:(UIButton *)button {
     ViewController *viewController = [[ViewController alloc] initWithDic:self.skuResult];
-    UIWindow *widow = [UIApplication sharedApplication].keyWindow;
-    widow.backgroundColor = [UIColor blackColor];
-    [self setUpAlterViewControllerWith:viewController WithDistance:KScreenHeight * 0.8 WithDirection:XWDrawerAnimatorDirectionBottom WithParallaxEnable:NO WithFlipEnable:YES];
-}
-#pragma mark - 转场动画弹出控制器
-- (void)setUpAlterViewControllerWith:(UIViewController *)vc WithDistance:(CGFloat)distance WithDirection:(XWDrawerAnimatorDirection)vcDirection WithParallaxEnable:(BOOL)parallaxEnable WithFlipEnable:(BOOL)flipEnable {
-    [self dismissViewControllerAnimated:YES completion:nil]; //以防有控制未退出
-    XWDrawerAnimatorDirection direction = vcDirection;
-    XWDrawerAnimator *animator = [XWDrawerAnimator xw_animatorWithDirection:direction moveDistance:distance];
-    animator.parallaxEnable = parallaxEnable;
-    animator.flipEnable = flipEnable;
-    animator.toDuration = 0.5;
-    animator.backDuration = 0.5;
-    animator.needInteractiveTimer = YES;
-    [self xw_presentViewController:vc withAnimator:animator];
-    __weak typeof(self)weakSelf = self;
-    [animator xw_enableEdgeGestureAndBackTapWithConfig:^{
-        [weakSelf selfAlterViewback];
+    
+    viewController.modalPresentationStyle = UIModalPresentationPageSheet;
+    [self presentViewController:viewController animated:true completion:^{
+        
     }];
     
 }
-#pragma 退出界面
-- (void)selfAlterViewback {
-    [self dismissViewControllerAnimated:YES completion:^{
-        UIWindow *widow = [UIApplication sharedApplication].keyWindow;
-        widow.backgroundColor = [UIColor whiteColor];
-    }];
-}
+
+
 
 @end
